@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background-color: #f4f0e5;
+    font-family: Tahoma;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+}
+
+.secao-cabecalho img {
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.secao-cabecalho a {
+    margin: 0 10px;
+    color: #542f0c;
+}
+
+h1 {
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #de8e37;
+}
+
+.sobre {
+    width: 700px;
+}
+
+.sobre img {
+    width: 700px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+    color: #de8e37;
+}
+
+.produtos {
+    width: 700px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    background-color: #de8e37;
+    color: #f4f0e5;
+}
+
+.produtos img {
+    width: 450px;
+}
+
+
+h3 {
+    font-size: 24px;
+    
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.produtos p {
+    width: 500px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.contato {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 15px;
+}
+
+.contato h3 {
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+}
